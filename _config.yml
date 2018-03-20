@@ -1,7 +1,7 @@
 
 # Site settings
 title: Simply Intellectual
-description: A blog: By Leanna Faulk
+description: A Blog by Leanna Faulk
 baseurl: "/web1-sp" # folder where your site lives, e.g. /web1-sp - needs to start with a slash
 url: "http://leannafaulk.github.io/Blog/" # the base hostname & protocol for your site, e.g. http://hostname.domain.com
 
