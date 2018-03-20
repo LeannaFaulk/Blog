@@ -3,7 +3,7 @@
 title: Simply Intellectual
 description: A Blog by Leanna Faulk
 baseurl: "/Blog" # folder where your site lives, e.g. /web1-sp - needs to start with a slash
-url: "http://leannafaulk.github.io/Blog/" # the base hostname & protocol for your site, e.g. http://hostname.domain.com
+url: "http://leannafaulk.github.io" # the base hostname & protocol for your site, e.g. http://hostname.domain.com
 
 # Build settings
 markdown: kramdown
